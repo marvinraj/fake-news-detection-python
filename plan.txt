@@ -6,6 +6,7 @@ useful links -
 -- https://www.geeksforgeeks.org/fake-news-detection-using-machine-learning/
 
 plan -
+0. write down why im choosing to work on this type of project
 1. read thru all links above
 2. find a dataset on kaggle or any other platform to work on
 3. read information on chosen dataset, understand the overview of the dataset and the task given
